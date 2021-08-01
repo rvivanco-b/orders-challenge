@@ -7,7 +7,7 @@ Orders Challenge made with Node.js and React
 
 The following diagram takes in consideration Orders with details, Role based authorization and Event table to manage all events that occurs in the system, a little approach to Event Sourcing.
 
-![ERDDiagram](https://user-images.githubusercontent.com/53315757/127785990-db35a8d3-19f0-4142-9441-1db1a9efdc75.png)
+![ERDDiagram1](https://user-images.githubusercontent.com/53315757/127786027-2441121d-0fc3-478c-9b21-3430071b03fb.jpg)
 
 
 In this repository you will find an archive called ddl.sql. You can use it to generate the basic structure. 
