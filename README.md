@@ -7,8 +7,7 @@ Orders Challenge made with Node.js and React
 
 The following diagram takes in consideration Orders with details, Role based authorization and Event table to manage all events that occurs in the system, a little approach to Event Sourcing.
 
-![ERDDiagram](C:\Users\raulv\Documents\node\ERDDiagram.png)
-
+![ERDDiagram](https://user-images.githubusercontent.com/53315757/127785990-db35a8d3-19f0-4142-9441-1db1a9efdc75.png)
 
 
 In this repository you will find an archive called ddl.sql. You can use it to generate the basic structure. 
@@ -28,6 +27,7 @@ Current version of the server is not running :(
 
 In orders-react you will find all stuff related with Front End using React 17. I decided to use Antd as UI-Framework to develop faster that pure CSS or styled components. I simplified the front end with a single view displaying all orders in a table with order details attached to it.
 
-![image-20210801162639294](C:\Users\raulv\AppData\Roaming\Typora\typora-user-images\image-20210801162639294.png)
+![Front End](https://user-images.githubusercontent.com/53315757/127786004-ba988607-2207-47d7-94f3-dbfe93f45b64.PNG)
+
 
 You can use `npm start` to execute the project. There is fake data in the components. It's pending to make the integration with the server. I chose axios as Http Client to make requests.
